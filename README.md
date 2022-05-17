@@ -18,5 +18,5 @@ expo install expo-constants <br/>
 expo install expo-linear-gradient <br/> 
 expo install expo-speech <br/> 
 
-<img src='/App/imagem/drops.png'}}/> 
+<img src='./App/imagem/drops.png'}}/> 
 
