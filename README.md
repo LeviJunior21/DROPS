@@ -1,3 +1,10 @@
+**DROPS No Mundo da Lua** 
+
+<div align='center' >
+<img src="https://user-images.githubusercontent.com/104105849/168904658-739d4196-7234-4f6c-a0f7-b727dc141866.png" style="width: 50%"/> 
+</div>
+
+
 **Bibliotecas a serem instaladas usando o NPM:**
 
 npm install @react-navigation/native <br/> 
@@ -17,6 +24,4 @@ expo install @expo/vector-icons <br/>
 expo install expo-constants <br/> 
 expo install expo-linear-gradient <br/> 
 expo install expo-speech <br/> 
-
-<img src='[./App/imagem/drops.png](https://user-images.githubusercontent.com/104105849/168904658-739d4196-7234-4f6c-a0f7-b727dc141866.png)'}}/> 
 
