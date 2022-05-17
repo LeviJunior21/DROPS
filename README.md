@@ -1,8 +1,6 @@
 **DROPS No Mundo da Lua** <br/> 
 
-**Repositório:** 
-
-**LICENÇA MIT** 
+**Repositório: LICENÇA MIT** 
 <div align='center' >
 <img src="https://user-images.githubusercontent.com/104105849/168904658-739d4196-7234-4f6c-a0f7-b727dc141866.png" style="width: 50%"/> 
 </div>
