@@ -10,7 +10,7 @@ expo install react-native-safe-area-context <br/>
 expo install @react-navigation/drawer <br/> 
 expo install @react-navigation/bottom-tabs <br/> 
 
-**Icones:** 
+**Icones, constantes e gradientes:** 
 
 expo install react-native-vector-icons <br/> 
 expo install @expo/vector-icons <br/> 
