@@ -13,7 +13,7 @@ npm install @react-navigation/native-stack <br/>
 
 **Bibliotecas a serem instaladas utilizando EXPO ou YARN para navegações entre telas:** 
 
-expo install react-native-screes <br/> 
+expo install react-native-screens <br/> 
 expo install react-native-safe-area-context <br/> 
 expo install @react-navigation/drawer <br/> 
 expo install @react-navigation/bottom-tabs <br/> 
