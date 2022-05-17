@@ -17,3 +17,5 @@ expo install @expo/vector-icons <br/>
 expo install expo-constants <br/> 
 expo install expo-linear-gradient <br/> 
 expo install expo-speech <br/> 
+
+<img source='https://github.com/LeviJunior21/DROPS/blob/7027d8c88f1751a743bbdb7ef88f30d5a7dfadbe/App/imagem/drops.png'/> 
