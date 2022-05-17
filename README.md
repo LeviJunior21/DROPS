@@ -17,6 +17,8 @@ expo install react-native-screes <br/>
 expo install react-native-safe-area-context <br/> 
 expo install @react-navigation/drawer <br/> 
 expo install @react-navigation/bottom-tabs <br/> 
+expo install react-native-gesture-handler </br>  
+
 
 **Icones, constantes e gradientes:** 
 
